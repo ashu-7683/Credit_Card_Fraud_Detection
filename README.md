@@ -30,4 +30,4 @@ The code is provided in the Jupyter notebook `creditcard.ipynb`.
 
 ## Note
 
-This notebook was developed in a Windows environment with a Unix-like shell (like Git Bash). The shell commands (like `mv`, `chmod`) are for Unix. If you are on Windows without a Unix-like shell, you may need to adjust the shell commands.
+This notebook was developed in a Windows environment with a Unix-like shell (like Git Bash).
